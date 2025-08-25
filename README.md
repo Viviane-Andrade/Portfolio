@@ -20,7 +20,7 @@ My goal with learning the skills required to run these projects is to one day he
   <li>Weather Prediction App (Link will be available soon)</li>
 </ul>
 
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="25" height="25" /><b>Data Visualization Projects</b></p>
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="25" height="25" /> <b>Data Visualization Projects</b></p>
 <ul>
   <a href="https://github.com/Viviane-Andrade/Explore-Bike-Share"><li>Explore Bike Share Data with R</li></a>
   <li>Explore Census Data with Tableau (Link will be available soon)</li>
